@@ -253,7 +253,7 @@ function bd(){
     if (five == 1) {
         document.getElementById("id1").style="animation: bd1 1s; transform:rotate(50deg)";
         document.getElementById("id2").style.display="none";
-        document.getElementById("id3").style="animation: bd3 1s; transform:rotate(-50deg); margin-top:-7px";
+        document.getElementById("id3").style="animation: bd3 1s; transform:rotate(-50deg); margin-top:-6px";
         document.getElementById("dId").style.display="block"
         five = 2;
     }
